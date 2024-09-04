@@ -79,7 +79,7 @@ def distorize(path, factor=200, frequency=5, output="result.jpg", seed=None):
 
 
 if __name__ == "__main__":
-    path = "/home/timon/Изображения/My/kate.jpg"
+    path = ""
     factor = 100
     frequency = 10
     distorize(path, factor, frequency, seed=69)
